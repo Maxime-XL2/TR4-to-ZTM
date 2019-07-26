@@ -1,0 +1,451 @@
+# depslib dependency file v1.0
+1563915617 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\main.cpp
+	"SRC/common.h"
+
+1559941030 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinflate.c
+	"tinf.h"
+
+1559941052 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinf.h
+
+1559945476 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinfgzip.c
+	"tinf.h"
+
+1559945472 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinfzlib.c
+	"tinf.h"
+
+1559945507 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\adler32.c
+	"tinf.h"
+
+1559945507 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\crc32.c
+	"tinf.h"
+
+1559944667 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\uncompr.c
+	"zlib.h"
+
+1559944667 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zlib.h
+	"zconf.h"
+
+1559944667 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zconf.h
+	<stddef.h>
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1559944665 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\adler32.c
+	"zutil.h"
+
+1559944667 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\compress.c
+	"zlib.h"
+
+1559944668 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\contrib\blast\blast.c
+	<stddef.h>
+	<setjmp.h>
+	"blast.h"
+	<stdio.h>
+	<stdlib.h>
+
+1559944668 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\contrib\blast\blast.h
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\crc32.h
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\deflate.c
+	"deflate.h"
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\deflate.h
+	"zutil.h"
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzclose.c
+	"gzguts.h"
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzlib.c
+	"gzguts.h"
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzread.c
+	"gzguts.h"
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inftrees.h
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inflate.h
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffast.h
+
+1559944666 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffixed.h
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1559944666 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1559944667 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1559944667 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\trees.h
+
+1559944667 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zutil.c
+	"zutil.h"
+	"gzguts.h"
+	<stdlib.h>
+
+1559944665 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\adler32.c
+	"zutil.h"
+
+1559944667 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1559944667 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zlib.h
+	"zconf.h"
+
+1559944667 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zconf.h
+	<stddef.h>
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\compress.c
+	"zlib.h"
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\crc32.c
+	<stdio.h>
+	"zutil.h"
+	"crc32.h"
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\crc32.h
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\deflate.c
+	"deflate.h"
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\deflate.h
+	"zutil.h"
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzclose.c
+	"gzguts.h"
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzguts.h
+	<stdio.h>
+	"zlib.h"
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<fcntl.h>
+	<stddef.h>
+	<io.h>
+	<windows.h>
+	<errno.h>
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzlib.c
+	"gzguts.h"
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzread.c
+	"gzguts.h"
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\gzwrite.c
+	"gzguts.h"
+	<stdarg.h>
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inftrees.h
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inflate.h
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffast.h
+
+1559944666 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffixed.h
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1559944666 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1559944667 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1559944667 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\trees.h
+
+1559944667 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\uncompr.c
+	"zlib.h"
+
+1559944667 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\extern\zlib-master\zutil.c
+	"zutil.h"
+	"gzguts.h"
+	<stdlib.h>
+
+1559945507 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\adler32.c
+	"tinf.h"
+
+1559941052 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinf.h
+
+1559945507 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\crc32.c
+	"tinf.h"
+
+1559945476 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinfgzip.c
+	"tinf.h"
+
+1559941030 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinflate.c
+	"tinf.h"
+
+1559945472 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tinf\tinfzlib.c
+	"tinf.h"
+
+1560997221 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\main.cpp
+	"SRC/common.h"
+	<windows.h>
+	<gl/gl.h>
+	"SRC/TINF/tinf.h"
+	<GL/glu.h>
+	<zlib.h>
+
+1560550244 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tr4_types.h
+
+1560922997 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\common.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<gl/gl.h>
+	<GL/glu.h>
+	"tr4_types.h"
+	"PREVIEW/ZTM_DEF.h"
+
+1560394031 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\textures.cpp
+	"../common.h"
+
+1563910325 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\common.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<gl/gl.h>
+	<GL/glu.h>
+	"TINF/tinf.h"
+	<GL/glu.h>
+	<zlib.h>
+	"tr4_types.h"
+	"PREVIEW/ZTM_DEF.h"
+	"LOADING/LoadTR4.h"
+	"CONVERT_2_ZTM/converter.h"
+
+1563458987 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\tr4_types.h
+
+1563456960 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\textures.cpp
+	"../common.h"
+
+1560825211 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\collision.cpp
+
+1560997138 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\controls.cpp
+	"ZTM_DEF.h"
+
+1560923387 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\ztm_def.h
+	"../common.h"
+	"collision.h"
+	"load.h"
+	"lightning.h"
+	"partition.h"
+	"portal.h"
+	"pvs.h"
+	"rendering.h"
+	"textures.h"
+	"tools.h"
+	"vectors.h"
+	"writeBinary.h"
+	"writeHeader.h"
+	"../portals/portal_rendering.h"
+	"../MAP_LOADING/map.h"
+	"player.h"
+	"collision.h"
+	"controls.h"
+
+1560825768 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\collision.h
+
+1540442349 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\player.h
+
+1544820831 c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\controls.h
+
+1560924559 source:c:\users\maxime\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\player.cpp
+	"ZTM_DEF.h"
+
+1563910366 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\ztm_def.h
+	"../common.h"
+	"collision.h"
+	"load.h"
+	"lightning.h"
+	"partition.h"
+	"portal.h"
+	"pvs.h"
+	"rendering.h"
+	"textures.h"
+	"tools.h"
+	"vectors.h"
+	"writeBinary.h"
+	"writeHeader.h"
+	"../portals/portal_rendering.h"
+	"../MAP_LOADING/map.h"
+	"player.h"
+	"collision.h"
+	"controls.h"
+
+1560825768 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\collision.h
+
+1540442349 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\player.h
+
+1544820831 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\controls.h
+
+1563915851 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\collision.cpp
+	"../common.h"
+
+1563898226 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\controls.cpp
+	"ZTM_DEF.h"
+
+1560924559 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\player.cpp
+	"ZTM_DEF.h"
+
+1563458259 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\loadtr4.h
+
+1563831220 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\loadtr4.cpp
+	"../common.h"
+
+1563455461 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\vertices.cpp
+	"../common.h"
+
+1563456353 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\faces.cpp
+	"../common.h"
+
+1563456678 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\lights.cpp
+	"../common.h"
+
+1563458415 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\rooms.cpp
+	"../common.h"
+
+1563459356 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\items.cpp
+	"../common.h"
+
+1563915281 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\mesh.cpp
+	"../common.h"
+
+1563457982 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\colors.cpp
+	"../common.h"
+
+1563915324 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\moveables.cpp
+	"../common.h"
+
+1563458178 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\loading\sprites.cpp
+	"../common.h"
+
+1563901210 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\bsp\createbsp.cpp
+	"../common.h"
+
+1563816294 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\bsp\createplanes.cpp
+
+1563817319 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\opengl\opengl.cpp
+	"../common.h"
+
+1563915233 d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\convert_2_ztm\converter.h
+
+1563817974 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\convert_2_ztm\textures.cpp
+	"../common.h"
+
+1563908422 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\convert_2_ztm\convert.cpp
+	"../common.h"
+
+1563909791 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\convert_2_ztm\tools.cpp
+	"../common.h"
+
+1563910393 source:d:\onedrive\max\onedrive\documents\saturn\opentomb\converter\tomb_2_ztm\src\preview\frustum.cpp
+	"../common.h"
+
